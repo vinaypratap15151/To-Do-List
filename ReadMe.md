@@ -8,13 +8,21 @@ able to complete them without any delay.
 
 ## Tech Stack
 1)HTML
+
 2)CSS
+
 3)BOOTSTRAP
+
 4) JAVASCRIPT
+
 5) EJS
+
 6) NODE JS
+
 7) EXPRESS
+
 8) MONGO DB
+
 9)MONGOOSE
 
 
