@@ -13,15 +13,15 @@ able to complete them without any delay.
 
 3)BOOTSTRAP
 
-4) JAVASCRIPT
+4)JAVASCRIPT
 
-5) EJS
+5)EJS
 
-6) NODE JS
+6)NODE JS
 
-7) EXPRESS
+7)EXPRESS
 
-8) MONGO DB
+8)MONGO DB
 
 9)MONGOOSE
 
